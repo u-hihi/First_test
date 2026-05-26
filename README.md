@@ -16,4 +16,6 @@ git branch -d test
 # GitHub에서 삭제
 git push origin --delete test
 
+
 # main에서 수정했어요
+# 테스트2 브랜치에서 수정했어요
