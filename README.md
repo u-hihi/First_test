@@ -9,3 +9,9 @@ test
 26.5.26 수정했습니다.
 
 여기에는 무엇을 할까요?
+
+# 내 컴퓨터에서 삭제
+git branch -d test
+
+# GitHub에서 삭제
+git push origin --delete test
